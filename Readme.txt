@@ -1,1 +1,3 @@
-Hello.... Testing Git
+Hello.... Testing repository
+
+blink example
